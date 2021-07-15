@@ -1,0 +1,11 @@
+.position i{
+  font-size: 32px;
+  position: relative;
+}
+
+.position{
+  position: absolute;
+  right: 40px;
+  top: 100px;
+
+}
